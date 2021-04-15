@@ -19,7 +19,8 @@ export default function Home() {
         </p>
 
         <p className="description">
-          Or just try and get CI working...<br> Which I am doing.
+          Or just try and get CI working...
+           Which I am doing, sort of.
           </p>
 
 
