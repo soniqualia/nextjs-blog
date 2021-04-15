@@ -20,7 +20,7 @@ export default function Home() {
 
         <p className="description">
           Or just try and get CI working...
-           Which I am doing, sort of. I think?
+            currently at one line deployment.
           </p>
 
 
