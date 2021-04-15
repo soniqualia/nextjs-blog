@@ -15,6 +15,7 @@ export default function Home() {
 
         <p className="description">
           Get started by editing <code>pages/index.js</code>
+          Or just try and get CI working...
         </p>
 
         
