@@ -20,8 +20,8 @@ export default function Home() {
 
         <p className="description">
           Or just try and get CI working...
-            currently at one line deployment. Error Correct
-            
+            currently at one line deployment. Error Correction
+
           </p>
 
 
