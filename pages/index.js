@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Hi Babe <a href="https://nextjs.org">Next.js!</a>
+          Is is DaVinci?  <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <p className="description">
