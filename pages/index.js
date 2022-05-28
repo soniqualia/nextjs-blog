@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Is it Live?  <a href="https://nextjs.org">Next.js!</a>
+          Is it Live? Yes, finally  <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <p className="description">
